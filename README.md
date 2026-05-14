@@ -1,3 +1,3 @@
 # logica-com-typescript
 
-inicializando com vim
+brincando de escrever código em typescript no senai
